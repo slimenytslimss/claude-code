@@ -11,6 +11,7 @@
       "!!**/dist",
       "!!**/dist-stable",
       "!!**/.claude/workflows",
+      "!!**/.claude/skills",
       "!!**/*.workflow.mjs"
     ]
   },
